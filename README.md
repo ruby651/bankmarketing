@@ -1,2 +1,1 @@
-# bankmarketing
-Personal project
+#Personal project
